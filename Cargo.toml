@@ -1,0 +1,19 @@
+[package]
+name = "snipe"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+# test-sbf=[]
+
+[dependencies]
+anyhow = "1.0.86"
+assert_matches = "1.5.0"
+borsh = "1.5.1"
+clap = "4.5.9"
+solana-logger = "2.0.2"
+solana-program-test = "2.0.2"
+solana-sdk = "2.0.2"
+spl-token = "6.0.0"
+thiserror = "1.0.62"
+tokio = "1.38.1"
