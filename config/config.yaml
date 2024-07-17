@@ -1,0 +1,16 @@
+cluster:
+  localhost:
+    keypair: ""
+    program_id: ""
+    rpc:
+      env: "LOCALHOST_RPC_URL"
+  devnet:
+    keypar: ""
+    program_id:
+    rpc:
+      env: "DEVNET_RPC_URL"
+  mainnet:
+    keypair: ""
+    program_id:
+    rpc:
+      env: "MAINNET_RPC_URL"
