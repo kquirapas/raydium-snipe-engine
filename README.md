@@ -1,4 +1,4 @@
-# raydium-snipe-engine
+# raydium-snipe-engine (WIP)
 
 ## Configuration
 - `.env` for secrets
